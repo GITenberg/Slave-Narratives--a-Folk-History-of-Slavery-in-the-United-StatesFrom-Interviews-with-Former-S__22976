@@ -1,0 +1,33 @@
+_repo: Slave-Narratives--a-Folk-History-of-Slavery-in-the-United-StatesFrom-Interviews-with-Former-S__22976
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Work Projects Administration
+    alias: Administration, Work Projects
+    gutenberg_agent_id: '3906'
+    url: http://www.gutenberg.org/2009/agents/3906
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2007-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22976'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slave narratives -- North Carolina'
+- !lcsh 'African Americans -- North Carolina -- Biography'
+- !lcsh 'Slaves -- North Carolina -- Social conditions'
+- !lcsh 'Slavery -- North Carolina'
+- !lcc 'E300'
+- !lcsh 'Slaves -- North Carolina -- Biography'
+- !lcsh 'North Carolina -- History -- 1775-1865 -- Biography'
+title: 'Slave Narratives: a Folk History of Slavery in the United States
+
+  From Interviews with Former Slaves, North Carolina Narratives, Part 1'
+url: http://www.gutenberg.org/ebooks/22976
