@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '3906'
     url: http://www.gutenberg.org/2009/agents/3906
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22976#Slave-Narratives--a-Folk-History-of-Slavery-in-the-United-StatesFrom-Interviews-with-Former-S_
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
